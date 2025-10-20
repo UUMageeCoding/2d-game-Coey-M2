@@ -1,0 +1,3526 @@
+fileFormatVersion: 2
+guid: 2f8a34883ee029446b99f898a3d1cbf7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4115735418470520794
+    second: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 29
+        height: 58
+      alignment: 9
+      pivot: {x: 2.251505, y: 0.66967696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace3a76905c150b4ead15509876bdbec
+      internalID: -614807028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a783ed2067c7d843a2a95883a4fd273
+      internalID: -1399649742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341bfac5005675d45b51ec73250a56fc
+      internalID: 913156708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf9596ed0795f24b9e658c8b284861b
+      internalID: 1552595380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a605f25a76477624e8dd4b2d212dee69
+      internalID: 1949769361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e4520a8bfb60346a55b6af3c868e9b
+      internalID: 800809141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d465f4c45b6894a82341101e6d54a4
+      internalID: 1498245275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d4c5971e7e50746bf358bb78f19c87
+      internalID: -1272907372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29065ef06805ca4db1d81f7b3abfebf
+      internalID: 1711032476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_9
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec5decfaaccbbc46bc41514e8206eb6
+      internalID: -1326985506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_10
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8ead48a36414c42a5e48d6c85e8134
+      internalID: -900118557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_11
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6240fdaeedfdd14f8e41a170ded731f
+      internalID: -1760354831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af75f67101cc854e9ba9a1d78a5fcd6
+      internalID: -457981867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_13
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3fcc6196faca643a18ba7d2e0b61c8
+      internalID: -172747689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5bbf84b25899e49909315a180f226d
+      internalID: -483065761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_15
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee1c2294f4b3074b846b3ee3012d2bc
+      internalID: 1578268358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_16
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793b6846464742d47a471fbee91a15e2
+      internalID: 1128852298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_17
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427f6ca36df23d646806e9b75acf7336
+      internalID: 139628873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_18
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d783e20d170564ca96403dc2dbe807
+      internalID: 137248886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_19
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b31101645ca430479bb3157cbeff101
+      internalID: -601751672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_20
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829d11418e5aa9c4e97b498162871ec4
+      internalID: -1960388672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_21
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a666fa59764774bb359f80752fb831
+      internalID: 68501438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_22
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705128b1a4aee8d48b87c714e5404310
+      internalID: 1418803711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_23
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2806d711f795c47ad6b18e23c99ae9
+      internalID: -159364004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_24
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834aa900aa2712b4db482d5b47d54c4e
+      internalID: 1515104767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_25
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de002290b329fb84aa5aea697346cb26
+      internalID: -99466217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_26
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf844e1904b7bc4299696f4fbc4e156
+      internalID: 1567799032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_27
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719b3584ff2e44044895d6f5ac025e38
+      internalID: -615325174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_28
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd8681627a1f9743b8ec27c0c4cb77e
+      internalID: -98786194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_29
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bf978f7347e2a44bff5b27673d8974
+      internalID: 259144416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_30
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97319d026c61e2c46860842de5615ebc
+      internalID: -513808685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_31
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ec4f0bde79b24498baca1760799538
+      internalID: -519322656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_32
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec32c972fd12ced4d82072013a52df72
+      internalID: 1549317915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_33
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fab546382834c429368389bd2399dc
+      internalID: -1325029952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_34
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b95193b4203e264b84429810e12442d
+      internalID: 1564877411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_35
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf61651fa8946cc41ad4a77dacce3f2d
+      internalID: 1841187881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_36
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 214
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fa6dfbd82670548ab5d96a8b109aff
+      internalID: 980373461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64a98cac3683bb459d9a968260f2bae
+      internalID: 1943737045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_38
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3dae2fd24fa9842ae8329c8ac396b8
+      internalID: -1969298414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_39
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ef43a651f8e2e4cb4aaaa82587d1ed
+      internalID: -920140899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_40
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0e621713d172b4fa8b9d50ebb4602e
+      internalID: -86090515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_41
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025bbe81c88237f4ea9edb6ee82894fd
+      internalID: -301692956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_42
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089a17b3a7b68f445888fd7bf94625e5
+      internalID: 2141843668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_43
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de3a26e9d5b10148b4946672533e6af
+      internalID: 1231455391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_44
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e2b79534f98e54aa50983bcd8c4370
+      internalID: 1084155397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_45
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0fa3910209bf24e8c93c5c8c489290
+      internalID: -123773542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_46
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39fbcf071cc9d3408d957fd250d5349
+      internalID: -799249781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_47
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae5ade2e0c216048bfa5cff85c90d14
+      internalID: 1227353479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_48
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c1fa5968c6a804d8a499d927d463b5
+      internalID: 841694432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_49
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48edde1c7122c5c4d86d86fbb922a346
+      internalID: -27277735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_50
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc2ccf75dae63f408ea1be076507f07
+      internalID: 408823668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_51
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5acbaa2d506f64a91685e7e94ae817
+      internalID: -1439649846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_52
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d17736a5b9ecd140b80ef5d913a8ca1
+      internalID: -1736039207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_53
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931c3b8c96698d644b4ec0a5fd386b45
+      internalID: 187802839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_54
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d173eb97f6e7e414285304d7cff5e127
+      internalID: 902081680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_55
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02adf13b29414840ab338fcfbb7cc87
+      internalID: 1397766861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_56
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb3d5643209b3f44a6f5153a1a00881
+      internalID: 32165361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_57
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e0dec092efbee4c92a6cfc2bdcd7c3
+      internalID: 560868118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_58
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46baa44018e6ac2469d64d2808483028
+      internalID: -1208112165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_59
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de19b1810b938834aa5c49c3614ee5c2
+      internalID: -785958635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_60
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0874e965e9adf43a5f9db0f6955ad5
+      internalID: -1140136628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_61
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c5c2c8273f08d42a6582137fcb9f76
+      internalID: -915464281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_62
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d29878affbd0474bbfbe0919067db13
+      internalID: -1420256023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_63
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b80a5b09d2aa14a919b4dba0f0c3c6
+      internalID: 1322019786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_64
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c73e84117e5a646981ad5015041141
+      internalID: 689990332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_65
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb26057043a7db1459e9fedd0f0e922e
+      internalID: 463143942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_66
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2564f7179c76e498f27afd3d92d811
+      internalID: -1622065604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_67
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd56330b12075944ea4c627e247fcffa
+      internalID: 1286686745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_68
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca53f4f97a835a94dabf5eb1506749b8
+      internalID: 880617935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_69
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1de2b883127d174b87a2eb8b069e24f
+      internalID: -1246118637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_70
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5875e2d2465142146b8aa4106ac61c52
+      internalID: -269227315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_71
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127c084fd2905f8458bd99a390ab2bdf
+      internalID: -1431391160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_72
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a86810520f128f4ba1de7a436457aa0
+      internalID: 219023715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_73
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 156
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0554534e03f17d24db86a589c82d624a
+      internalID: -1851276939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ec38f9efa00d14dbe41cfe36aaa079
+      internalID: 704383606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_75
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b543decaed028940b85c71430ce8c8b
+      internalID: -1344711047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_76
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0942a31d7507d0f43b679dbeaf662fa3
+      internalID: -1454826830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_77
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087a407711704c1429a0663f9b8a624e
+      internalID: -419912134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_78
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa36f28406426c419d02d2215d0bdb9
+      internalID: -1833214896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_79
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f360946b883c47740b606b67ab0c66cb
+      internalID: 2021564089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_80
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65b0656d15555b4eaa49b41cfbe065b
+      internalID: 2132954728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_81
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54348b351b9912489f0a61f65ecd37d
+      internalID: 920923697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_82
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1abd372763361f4aba5a71091179496
+      internalID: -639549272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_83
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f37b1320cc2f8f4595836c5d518af83
+      internalID: -1382397740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_84
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70440f44a8f1d474cb3b558a92047fb9
+      internalID: -801474556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_85
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a71d106d00a334bb0a2784ad077bbc
+      internalID: -323031148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_86
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b58c591f3968f843b1f075b3d9c1f56
+      internalID: -100344913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_87
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8deda3b2d3454b144b9092a1759889aa
+      internalID: -818125978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_88
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e5b487736bc534fad760dc9a1d889b
+      internalID: -756805738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_89
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c687d44ce0c8429458a50a50a93134b1
+      internalID: -1330192359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_90
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084495737d1a3f64fae37f814c93e708
+      internalID: -2122501712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_91
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3700940a44d3d4aba554e0f14b54d5
+      internalID: -1571463606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_92
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eda7c3f551c13c4497840ffb81d86bb
+      internalID: -1361443164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_93
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6118737c1e18ff74ab4642ec085559ff
+      internalID: 813608245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_94
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934eb830825dde0429d1781b3cbc1725
+      internalID: -1199891972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_95
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787088fa430d1a64b9be0f3782930b63
+      internalID: 1069591920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_96
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b35984519965143a0d74767d66f4e7
+      internalID: 2055088854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_97
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4fd54de1afc484b956aaefc9349c1d
+      internalID: 638926640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_98
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a91ef5a1be86549aa252ae3ced74e2
+      internalID: 1072138860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_99
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8056c2d75b9c4e545950789456720029
+      internalID: -1483784103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_100
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1541fed94f123440914e05dadc99a21
+      internalID: 1690668845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_101
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc680ddd4c7bec40bb31b971e5f5a35
+      internalID: 1505521019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_102
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e85c3c8658d43499a5f3e0f196b1ab
+      internalID: 1883724242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_103
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa043929dc04a0542a6b1d589fce6746
+      internalID: -183530211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_104
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474eff9d0d548d44ba5c51e8d551f6ea
+      internalID: -434409698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_105
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f14bd1c1a9deb47a86670670667c61
+      internalID: 1245412380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_106
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eac9d04b9bbf114d96b8d82af350dca
+      internalID: 775503576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_107
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbce63f64f43474dbe966217379d07d
+      internalID: -1191795605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_108
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74180ac0d641c5645a7a903c58e4d4ea
+      internalID: -989479526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_109
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adb8a1b34a00be46933038afbe277a9
+      internalID: 310720424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_110
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 98
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b5a2350b3202c4dab065ff79c64af9
+      internalID: 1934924023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23ed9afbee59464c8ba198ddfe07895
+      internalID: -1644885437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_112
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867c5fa41b5a70c499c331cad30c8284
+      internalID: -1060724047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_113
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131b28419b51b8841902cd6a06106f54
+      internalID: 457997377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_114
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb9dadc2df32664f8171a0589cd5034
+      internalID: 1478325472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_115
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ba8526c8f533d45b8fb42bd11dec0c
+      internalID: -1061866684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_116
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8c493082d84c04eb102e5f99c59c34
+      internalID: -537740759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_117
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c15684fa3faee428b4f5b241851467
+      internalID: -512736685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_118
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaccc1cf73e3f342b14737a7caeea37
+      internalID: -1503117943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_119
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af3f8a3e21514b41ae8ac56a1016f9a
+      internalID: 587978622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_120
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cdd423a647bf04cbd43eb9047a9e73
+      internalID: -1766005616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_121
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127307f96b362524b81855cad6286cc2
+      internalID: 1053627049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_122
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cd14723a5a31c42a755212c9c2a472
+      internalID: -1463788873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_123
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669a2a82e3326f440aea8808cfe27a0e
+      internalID: 1742968140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_124
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30d1a7845848dd43b5364edd77a34fc
+      internalID: -1714511979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_125
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a251e9145e6a84d8aafd609aa9bf83
+      internalID: -1513149319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_126
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d4a2776e238794294addd2eabd21fc
+      internalID: 1139988860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_127
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7fe7671d71d9c4cbd7d83f40bbe70e
+      internalID: -2085849357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_128
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32d49448a259564392d81092822d258
+      internalID: -274624241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_129
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1292d87ede71e874488efcfdc30f130f
+      internalID: 2081135944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_130
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f4144c51345014e89617f086bcb935
+      internalID: -7993645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_131
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d0b259ed3d6764781d026d04fae85e
+      internalID: 73976663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_132
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11775656a9e2df44480922c38cb0cbc1
+      internalID: 596307163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_133
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345b65c9b5fc15a4592948db621edeab
+      internalID: -2006027293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_134
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4f8742b754e8a4c82bb608e7710282
+      internalID: 795755209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_135
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807fa578833ee4740a21368e927871cc
+      internalID: -296100391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_136
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcf299e43736a341840b9db857aaad2
+      internalID: -2020537635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_137
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213e08f2d226350428f9fe5c30ca7407
+      internalID: -633914938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_138
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685189eaedbbd2244bb726cbf83ab10e
+      internalID: 831935643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_139
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ef82784706b2f4bb42fb808339a884
+      internalID: -607224820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_140
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57bc7eea09393946b6535b55d0932ad
+      internalID: 544087395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_141
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c8c9d48a058c54b8b5791db37d5d70
+      internalID: -809002438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_142
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d84d8f385071f4abea0b5cfef254e3
+      internalID: 132538004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_143
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0c6d8203f10c642bc5db96521ca9d8
+      internalID: 673592863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_144
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632047efa0c28b343b85692be875189e
+      internalID: 452665765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_145
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a7ed754423f1d4486385bbf57bb880
+      internalID: -322754477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_146
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511c52e98aaab4c4d836b5ccb161ece1
+      internalID: -1045782061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Deltarune - Enemies & Bosses - Spamton_147
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 40
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93fc4e581e63054db22fbfb5fe5ebbb
+      internalID: 897594469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3980433861dd87e4697ca8b1494ce284
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":29.0,"y":58.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_0: -614807028
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_1: -1399649742
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_10: -900118557
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_100: 1690668845
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_101: 1505521019
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_102: 1883724242
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_103: -183530211
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_104: -434409698
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_105: 1245412380
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_106: 775503576
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_107: -1191795605
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_108: -989479526
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_109: 310720424
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_11: -1760354831
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_110: 1934924023
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_111: -1644885437
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_112: -1060724047
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_113: 457997377
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_114: 1478325472
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_115: -1061866684
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_116: -537740759
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_117: -512736685
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_118: -1503117943
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_119: 587978622
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_12: -457981867
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_120: -1766005616
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_121: 1053627049
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_122: -1463788873
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_123: 1742968140
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_124: -1714511979
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_125: -1513149319
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_126: 1139988860
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_127: -2085849357
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_128: -274624241
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_129: 2081135944
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_13: -172747689
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_130: -7993645
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_131: 73976663
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_132: 596307163
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_133: -2006027293
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_134: 795755209
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_135: -296100391
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_136: -2020537635
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_137: -633914938
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_138: 831935643
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_139: -607224820
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_14: -483065761
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_140: 544087395
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_141: -809002438
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_142: 132538004
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_143: 673592863
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_144: 452665765
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_145: -322754477
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_146: -1045782061
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_147: 897594469
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_15: 1578268358
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_16: 1128852298
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_17: 139628873
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_18: 137248886
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_19: -601751672
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_2: 913156708
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_20: -1960388672
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_21: 68501438
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_22: 1418803711
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_23: -159364004
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_24: 1515104767
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_25: -99466217
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_26: 1567799032
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_27: -615325174
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_28: -98786194
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_29: 259144416
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_3: 1552595380
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_30: -513808685
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_31: -519322656
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_32: 1549317915
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_33: -1325029952
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_34: 1564877411
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_35: 1841187881
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_36: 980373461
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_37: 1943737045
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_38: -1969298414
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_39: -920140899
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_4: 1949769361
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_40: -86090515
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_41: -301692956
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_42: 2141843668
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_43: 1231455391
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_44: 1084155397
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_45: -123773542
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_46: -799249781
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_47: 1227353479
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_48: 841694432
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_49: -27277735
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_5: 800809141
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_50: 408823668
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_51: -1439649846
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_52: -1736039207
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_53: 187802839
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_54: 902081680
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_55: 1397766861
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_56: 32165361
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_57: 560868118
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_58: -1208112165
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_59: -785958635
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_6: 1498245275
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_60: -1140136628
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_61: -915464281
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_62: -1420256023
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_63: 1322019786
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_64: 689990332
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_65: 463143942
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_66: -1622065604
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_67: 1286686745
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_68: 880617935
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_69: -1246118637
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_7: -1272907372
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_70: -269227315
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_71: -1431391160
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_72: 219023715
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_73: -1851276939
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_74: 704383606
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_75: -1344711047
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_76: -1454826830
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_77: -419912134
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_78: -1833214896
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_79: 2021564089
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_8: 1711032476
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_80: 2132954728
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_81: 920923697
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_82: -639549272
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_83: -1382397740
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_84: -801474556
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_85: -323031148
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_86: -100344913
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_87: -818125978
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_88: -756805738
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_89: -1330192359
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_9: -1326985506
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_90: -2122501712
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_91: -1571463606
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_92: -1361443164
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_93: 813608245
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_94: -1199891972
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_95: 1069591920
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_96: 2055088854
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_97: 638926640
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_98: 1072138860
+      PC _ Computer - Deltarune - Enemies & Bosses - Spamton_99: -1483784103
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: spamton
+  assetBundleVariant: 
