@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PlatformerController : MonoBehaviour
 {
@@ -14,10 +15,12 @@ public class PlatformerController : MonoBehaviour
     private Rigidbody2D rb;
     private bool isGrounded;
     private float moveInput;
+    private Animator animator;
     
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
         
         // Set to Dynamic with gravity
         rb.bodyType = RigidbodyType2D.Dynamic;
@@ -44,8 +47,9 @@ public class PlatformerController : MonoBehaviour
     {
         // Apply horizontal movement
         rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
+        
     }
-    
+
     // Visualise ground check in editor
     void OnDrawGizmosSelected()
     {
@@ -53,6 +57,14 @@ public class PlatformerController : MonoBehaviour
         {
             Gizmos.color = Color.red;
             Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
+        }
+    }
+    public void Move(InputAction.CallbackContext context)
+    {
+        animator.SetBool("iswalking", true);
+        if (context.canceled)
+        {
+            animator.SetBool("iswalking", false);
         }
     }
 }
